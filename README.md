@@ -1,2 +1,2 @@
 # games
-site com html, css e técnicas de media query.
+:bulb:site com html, css e técnicas de media query.
